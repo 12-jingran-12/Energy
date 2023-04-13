@@ -24,3 +24,4 @@ If you are working in a Windows system.It is possible that you are missing some 
 The data you downloaded will be processed in the python and then it will opens up the websites with the ability to do data analysis in the side bar.
 
 ### 6 Navigate to url http://localhost:5000/
+   
